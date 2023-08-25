@@ -1,0 +1,54 @@
+body {
+    background-color: blanchedalmond;
+}
+a {
+    text-decoration: none;
+    font-weight: 600;
+    color: rgb(54, 53, 52);
+    font-size: x-large;
+}
+
+ul>li {
+    display: inline;
+    margin: 50px;
+}
+nav {
+    background-color: rgb(243, 155, 24);
+    border: 3px solid rgb(77, 0, 0);
+    border-radius: 7px;
+}
+header {
+    background-color: aqua;
+    border: 6px solid grey;
+    border-radius: 4px;
+    text-align: center;
+    
+}
+
+article {
+    display: inline-block;
+    max-width: 60%;
+}
+aside {
+    display: inline-block;
+    padding-left: 25px;
+    padding-right: 25px;
+    border: 1px solid black;
+    border-radius: 5%;
+}
+
+main {
+    background-color: blanchedalmond;
+    text-align: center;
+    margin-bottom: 45px;
+    margin-top: 35px;
+}
+footer {
+    text-align: center;
+    font-size: large;
+
+}
+#copy {
+    font-weight: 800;
+    font-size: xx-large;
+}
